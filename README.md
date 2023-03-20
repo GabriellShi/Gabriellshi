@@ -2,7 +2,7 @@
 ### Olá! Eu sou Gabriel Oliveira 🤚
 
 [![Blog](https://img.shields.io/website?label=Portfolio&style=for-the-badge&url=https://gabriellshi.github.io/portifolio/)](https://gabriellshi.github.io/portifolio/) 
-[![Blog](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]()
+[![Blog](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabriel-ferreira-santos/)
 
 ![Gabriel GitHub stats](https://github-readme-stats.vercel.app/api?username=GabriellShi&show_icons=true&theme=radical) 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GabriellShi&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
